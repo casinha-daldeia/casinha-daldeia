@@ -840,33 +840,6 @@
       "buttonUrl": "",
       "phone": "",
       "image": ""
-    },
-    {
-      "id": "departure",
-      "icon": "checklist",
-      "visible": false,
-      "translations": {
-        "pt": {
-          "title": "Antes de Sair",
-          "body": "Antes de sair, por favor, confirme que as janelas estão fechadas e os equipamentos desligados. "
-        },
-        "en": {
-          "title": "Before You Leave",
-          "body": ""
-        },
-        "es": {
-          "title": "Antes de Salir",
-          "body": ""
-        },
-        "fr": {
-          "title": "Avant de partir",
-          "body": ""
-        }
-      },
-      "buttonLabel": "",
-      "buttonUrl": "",
-      "phone": "",
-      "image": ""
     }
   ],
   "equicampoMaps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6"
