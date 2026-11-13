@@ -452,5 +452,156 @@
       }
     }
   ],
-  "activities": []
+  "activities": [
+    {
+      "id": "local-mwf2tkff-p148yc",
+      "image": "assets/activities-local-mwf2tkff-p148yc-1794580608933.jpg",
+      "maps": "",
+      "booking": "",
+      "equicampo": true,
+      "translations": {
+        "pt": {
+          "name": "Passeios a Cavalo",
+          "description": "Descubra o Gerês a cavalo, por trilhos de montanha e paisagens de grande beleza. Uma experiência acompanhada por guias experientes, com percursos adaptados ao nível dos participantes."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2ufgb-01z2rb",
+      "image": "assets/activities-local-mwf2ufgb-01z2rb-1794580612314.jpg",
+      "maps": "",
+      "booking": "https://equicampo.com/passeios-a-cavalo/",
+      "equicampo": true,
+      "translations": {
+        "pt": {
+          "name": "Batismo a Cavalo",
+          "description": "Uma primeira experiência equestre, ideal para crianças e para quem nunca montou a cavalo. Um pequeno passeio dentro da propriedade, com acompanhamento próximo de um monitor."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2v0zq-hbq5m9",
+      "image": "assets/activities-local-mwf2v0zq-hbq5m9-1794580615695.jpg",
+      "maps": "",
+      "booking": "https://equicampo.com/circuitos-de-arvorismo/",
+      "equicampo": true,
+      "translations": {
+        "pt": {
+          "name": "Circuitos de Arvorismo",
+          "description": "Uma aventura entre as árvores, com obstáculos e desafios em altura. Uma forma divertida de experimentar a natureza de uma perspetiva diferente, em família ou com amigos."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2v8ft-ucrjyp",
+      "image": "assets/activities-local-mwf2v8ft-ucrjyp-1794580620199.jpg",
+      "maps": "",
+      "booking": "https://equicampo.com/circuito-aventura/",
+      "equicampo": true,
+      "translations": {
+        "pt": {
+          "name": "Circuito Aventura",
+          "description": "Para quem procura emoção e novos desafios, uma experiência de aventura em ambiente natural, com atividades em rocha e vistas panorâmicas sobre a serra."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2vnva-v020rg",
+      "image": "assets/activities-local-mwf2vnva-v020rg-1794580623332.jpg",
+      "maps": "",
+      "booking": "https://equicampo.com/caminhadas/",
+      "equicampo": true,
+      "translations": {
+        "pt": {
+          "name": "Caminhadas Guiadas",
+          "description": "Explore o Gerês a pé, por trilhos que revelam a natureza, a história e as tradições da região. Uma oportunidade para conhecer a serra para além dos caminhos habituais."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2vxtt-umifn1",
+      "image": "assets/activities-local-mwf2vxtt-umifn1-1794580626342.jpg",
+      "maps": "",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Canoagem na Albufeira da Caniçada",
+          "description": "Explore as águas tranquilas da Caniçada ao seu ritmo, num kayak individual ou duplo. Uma experiência para descobrir pequenas enseadas e apreciar as montanhas a partir de uma perspetiva diferente."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    }
+  ]
 }
