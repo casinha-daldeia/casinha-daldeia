@@ -62,5 +62,29 @@
       "rulesBody": "Règles à venir."
     }
   },
-  "places": []
+  "places": [
+    {
+      "id": "local-mwevuyjc-ma571h",
+      "image": "assets/geres-local-mwevuyjc-ma571h-1794569091656.jpg",
+      "maps": "https://maps.app.goo.gl/UZKVBFFyMSzYDqRo9",
+      "translations": {
+        "pt": {
+          "name": "Barragem de Vilarinho das Furnas",
+          "description": "Rodeada pelas montanhas da Serra Amarela, esta albufeira esconde a história de uma aldeia submersa. Um cenário de grande beleza, onde a paisagem e a memória se encontram."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    }
+  ]
 }
