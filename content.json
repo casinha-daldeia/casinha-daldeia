@@ -303,7 +303,7 @@
     },
     {
       "id": "local-mweykmjb-0ydinm",
-      "image": "assets/restaurants-local-mweykmjb-0ydinm-1794575572243.jpg",
+      "image": "assets/restaurants-local-mweykmjb-0ydinm-1794580231170.jpg",
       "maps": "https://maps.app.goo.gl/KWzeZ6V6H8adJS4FA",
       "booking": "",
       "equicampo": false,
@@ -353,7 +353,7 @@
     },
     {
       "id": "local-mwexhmdp-iu1m6r",
-      "image": "assets/restaurants-local-mwexhmdp-iu1m6r-1794575577681.jpg",
+      "image": "assets/restaurants-local-mwexhmdp-iu1m6r-1794580235379.jpg",
       "maps": "https://maps.app.goo.gl/15Q2kZkgmBVk9MpQ8",
       "booking": "",
       "equicampo": false,
@@ -378,13 +378,38 @@
     },
     {
       "id": "local-mwezgqbf-a5ew9z",
-      "image": "assets/restaurants-local-mwezgqbf-a5ew9z-1794575579570.jpg",
+      "image": "assets/restaurants-local-mwezgqbf-a5ew9z-1794580239783.jpg",
       "maps": "https://maps.app.goo.gl/6u1R9dnADHyBucLq7",
       "booking": "",
       "equicampo": false,
       "translations": {
         "pt": {
           "name": "Restaurante Turismo",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwf2nbyd-45guh9",
+      "image": "assets/restaurants-local-mwf2nbyd-45guh9-1794580244591.jpg",
+      "maps": "https://maps.app.goo.gl/ivE5sCfeyQktxxaY9",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante O Encontro",
           "description": ""
         },
         "en": {
