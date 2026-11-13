@@ -623,5 +623,250 @@
     "stay": "assets/menu-stay-1794584865644.png",
     "guide": "assets/menu-guide-1794584868999.png",
     "food": "assets/menu-food-1794584872314.jpg"
-  }
+  },
+  "staySections": [
+    {
+      "id": "check",
+      "icon": "key",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Check-in e Check-out",
+          "body": "Escolha entre self check-in / self check-out ou atendimento presencial na sede da Equicampo. Contacte-nos para combinar a opção mais conveniente. As instruções de acesso são enviadas em privado antes da chegada."
+        },
+        "en": {
+          "title": "Check-in and Check-out",
+          "body": ""
+        },
+        "es": {
+          "title": "Check-in y Check-out",
+          "body": ""
+        },
+        "fr": {
+          "title": "Arrivée et départ",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "parking",
+      "icon": "car",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Estacionamento",
+          "body": "Para facilitar a descarga e o transporte das bagagens, podem estacionar temporariamente à porta do alojamento.\n\nPara estacionamentos mais prolongados, recomendamos que utilizem o parque de estacionamento público situado à entrada da aldeia, o mais próximo da Casinha D’Aldeia."
+        },
+        "en": {
+          "title": "Parking",
+          "body": ""
+        },
+        "es": {
+          "title": "Aparcamiento",
+          "body": ""
+        },
+        "fr": {
+          "title": "Stationnement",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "wifi",
+      "icon": "wifi",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Wi-Fi",
+          "body": "Consulte os dados da rede Wi-Fi abaixo."
+        },
+        "en": {
+          "title": "Wi-Fi",
+          "body": ""
+        },
+        "es": {
+          "title": "Wi-Fi",
+          "body": ""
+        },
+        "fr": {
+          "title": "Wi-Fi",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "equipment",
+      "icon": "book",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Guia dos Equipamentos",
+          "body": "Queremos que se sinta à vontade desde o primeiro momento.\n\nCheck-in: a partir das 16h00\nCheck-out: até às 12h00\n\nNeste guia encontrará as informações essenciais para desfrutar da casa com toda a tranquilidade.\n\nSe surgir alguma dúvida, se precisar de ajuda ou simplesmente quiser uma recomendação, estamos à distância de uma mensagem ou chamada. Teremos todo o gosto em ajudar."
+        },
+        "en": {
+          "title": "Appliance Guide",
+          "body": ""
+        },
+        "es": {
+          "title": "Guía de los equipos",
+          "body": ""
+        },
+        "fr": {
+          "title": "Guide des équipements",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "+351914848094",
+      "image": ""
+    },
+    {
+      "id": "fireplace",
+      "icon": "flame",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Lareira e Lenha",
+          "body": "Fornecemos lenha para a lareira. Se precisar de mais, contacte-nos. Nunca deixe a lareira acesa sem vigilância."
+        },
+        "en": {
+          "title": "Fireplace and Firewood",
+          "body": ""
+        },
+        "es": {
+          "title": "Chimenea y Leña",
+          "body": ""
+        },
+        "fr": {
+          "title": "Cheminée et bois",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "rules",
+      "icon": "info",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Regras da Casa",
+          "body": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar."
+        },
+        "en": {
+          "title": "House Rules",
+          "body": ""
+        },
+        "es": {
+          "title": "Normas de la casa",
+          "body": ""
+        },
+        "fr": {
+          "title": "Règles de la maison",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "waste",
+      "icon": "recycle",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Lixo e Reciclagem",
+          "body": "Consulte as indicações sobre separação de resíduos e localização dos contentores."
+        },
+        "en": {
+          "title": "Waste and Recycling",
+          "body": ""
+        },
+        "es": {
+          "title": "Basura y Reciclaje",
+          "body": ""
+        },
+        "fr": {
+          "title": "Déchets et recyclage",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "safety",
+      "icon": "shield",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Segurança e Emergências",
+          "body": "Em caso de emergência ligue 112. Consulte as indicações de segurança do alojamento."
+        },
+        "en": {
+          "title": "Safety and Emergencies",
+          "body": ""
+        },
+        "es": {
+          "title": "Seguridad y Emergencias",
+          "body": ""
+        },
+        "fr": {
+          "title": "Sécurité et urgences",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "departure",
+      "icon": "checklist",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Antes de Partir",
+          "body": "Antes de sair, confirme que as janelas estão fechadas e os equipamentos desligados. Siga as instruções de entrega das chaves."
+        },
+        "en": {
+          "title": "Before You Leave",
+          "body": ""
+        },
+        "es": {
+          "title": "Antes de Salir",
+          "body": ""
+        },
+        "fr": {
+          "title": "Avant de partir",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    }
+  ]
 }
