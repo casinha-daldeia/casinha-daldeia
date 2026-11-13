@@ -761,33 +761,6 @@
       "image": ""
     },
     {
-      "id": "rules",
-      "icon": "info",
-      "visible": true,
-      "translations": {
-        "pt": {
-          "title": "Regras da Casa",
-          "body": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar."
-        },
-        "en": {
-          "title": "House Rules",
-          "body": ""
-        },
-        "es": {
-          "title": "Normas de la casa",
-          "body": ""
-        },
-        "fr": {
-          "title": "Règles de la maison",
-          "body": ""
-        }
-      },
-      "buttonLabel": "",
-      "buttonUrl": "",
-      "phone": "",
-      "image": ""
-    },
-    {
       "id": "waste",
       "icon": "recycle",
       "visible": true,
@@ -806,6 +779,33 @@
         },
         "fr": {
           "title": "Déchets et recyclage",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "rules",
+      "icon": "info",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Regras da Casa",
+          "body": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar."
+        },
+        "en": {
+          "title": "House Rules",
+          "body": ""
+        },
+        "es": {
+          "title": "Normas de la casa",
+          "body": ""
+        },
+        "fr": {
+          "title": "Règles de la maison",
           "body": ""
         }
       },
@@ -844,7 +844,7 @@
     {
       "id": "departure",
       "icon": "checklist",
-      "visible": true,
+      "visible": false,
       "translations": {
         "pt": {
           "title": "Antes de Sair",
