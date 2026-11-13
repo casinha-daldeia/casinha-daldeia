@@ -659,7 +659,7 @@
       "translations": {
         "pt": {
           "title": "Estacionamento",
-          "body": "Consulte aqui as indicações de estacionamento e acesso à casa."
+          "body": "Para facilitar a descarga e o transporte das bagagens, podem estacionar temporariamente à porta do alojamento.\n\nPara estacionamentos mais prolongados, pedimos que utilizem o parque de estacionamento público situado à entrada da aldeia, o mais próximo da Casinha D’Aldeia."
         },
         "en": {
           "title": "Parking",
@@ -674,8 +674,8 @@
           "body": ""
         }
       },
-      "buttonLabel": "",
-      "buttonUrl": "",
+      "buttonLabel": "Direções para o Parque de Estacionamento",
+      "buttonUrl": "https://maps.app.goo.gl/iGuSCRi9LJRw3U2c8",
       "phone": "",
       "image": ""
     },
@@ -868,5 +868,6 @@
       "phone": "",
       "image": ""
     }
-  ]
+  ],
+  "equicampoMaps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6"
 }
