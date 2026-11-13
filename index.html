@@ -11,8 +11,13 @@ if(previewMode){
     if(!next||typeof next!=='object'||!next.texts||!next.texts.pt)return;
     data=next;render();
   });
-  window.parent.postMessage({type:'casinha-preview-ready'},location.origin);
   document.getElementById('app').textContent='A preparar a pré-visualização…';
+  window.parent.postMessage({type:'casinha-preview-ready'},location.origin);
+  // Retry the handshake until the parent sends the preview content.
+  let attempts=0;const handshake=setInterval(()=>{
+    if(data||++attempts>25){clearInterval(handshake);if(!data)document.getElementById('app').textContent='Não foi possível carregar a pré-visualização. Fecha e abre novamente.';return;}
+    window.parent.postMessage({type:'casinha-preview-ready'},location.origin);
+  },400);
 }else{
   fetch('content.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('content.json');return r.json()}).then(d=>{data=d;render()}).catch(()=>{document.getElementById('app').textContent='Não foi possível carregar o guia. Atualize a página.'});
 }
