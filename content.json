@@ -1,0 +1,65 @@
+{
+  "brand": "Casinha D’Aldeia",
+  "heroImage": "casinha-app/assets/casa.jpg",
+  "wifiName": "",
+  "wifiPassword": "",
+  "checkin": "",
+  "checkout": "",
+  "whatsapp": "",
+  "maps": "",
+  "address": "Campo do Gerês, Terras de Bouro, Portugal",
+  "texts": {
+    "pt": {
+      "welcome": "Bem-vindo!",
+      "intro": "É um prazer recebê-lo na nossa casa. Esperamos que se sinta em casa e tenha uma estadia maravilhosa.",
+      "guide": "Guia da Casa",
+      "discover": "Descobrir o Gerês",
+      "experiences": "Experiências",
+      "hosts": "Anfitriões",
+      "rules": "Regras da casa",
+      "guideBody": "Informações da casa a adicionar.",
+      "discoverBody": "As nossas recomendações locais serão adicionadas em breve.",
+      "experiencesBody": "Descubra as experiências da região.",
+      "rulesBody": "Regras a adicionar."
+    },
+    "en": {
+      "welcome": "Welcome!",
+      "intro": "We are delighted to welcome you. Make yourself at home and enjoy your stay.",
+      "guide": "House Guide",
+      "discover": "Explore Gerês",
+      "experiences": "Experiences",
+      "hosts": "Your Hosts",
+      "rules": "House Rules",
+      "guideBody": "House information coming soon.",
+      "discoverBody": "Our local recommendations are coming soon.",
+      "experiencesBody": "Discover local experiences.",
+      "rulesBody": "House rules coming soon."
+    },
+    "es": {
+      "welcome": "¡Bienvenidos!",
+      "intro": "Nos alegra darles la bienvenida. Siéntanse como en casa y disfruten de su estancia.",
+      "guide": "Guía de la casa",
+      "discover": "Descubrir Gerês",
+      "experiences": "Experiencias",
+      "hosts": "Anfitriones",
+      "rules": "Normas de la casa",
+      "guideBody": "Información de la casa próximamente.",
+      "discoverBody": "Próximamente nuestras recomendaciones locales.",
+      "experiencesBody": "Descubra las experiencias de la región.",
+      "rulesBody": "Normas próximamente."
+    },
+    "fr": {
+      "welcome": "Bienvenue !",
+      "intro": "Nous sommes ravis de vous accueillir. Faites comme chez vous et profitez de votre séjour.",
+      "guide": "Guide de la maison",
+      "discover": "Découvrir le Gerês",
+      "experiences": "Expériences",
+      "hosts": "Vos hôtes",
+      "rules": "Règles de la maison",
+      "guideBody": "Informations sur la maison à venir.",
+      "discoverBody": "Nos recommandations locales arrivent bientôt.",
+      "experiencesBody": "Découvrez les expériences de la région.",
+      "rulesBody": "Règles à venir."
+    }
+  }
+}
