@@ -302,7 +302,7 @@
       },
       "locality": "Campo do Gerês · Terras de Bouro",
       "address": "Rua de São João, nº 610, Campo do Gerês",
-      "phone": "(+351) 914 848 094"
+      "phone": "+351914848094"
     },
     {
       "id": "local-mweykmjb-0ydinm",
@@ -330,7 +330,7 @@
       },
       "locality": "Covide · Terras de Bouro",
       "address": "Rua de Sá, 145, Covide",
-      "phone": "(+351) 253 353 195"
+      "phone": "+351253353195"
     },
     {
       "id": "local-mweyfk4w-7n72ze",
@@ -356,7 +356,7 @@
           "description": ""
         }
       },
-      "phone": "(+351) 253 191 441",
+      "phone": "+351253191441",
       "locality": "Campo do Gerês · Terras de Bouro",
       "address": "Rua de Cerdeira, 400 Campo do Gerês"
     },
@@ -386,7 +386,7 @@
       },
       "locality": "Brufe · Terras de Bouro",
       "address": "Lugar de Brufe, 4840-020 Brufe",
-      "phone": "(+351) 253 352 944"
+      "phone": "+351253352944"
     },
     {
       "id": "local-mwezgqbf-a5ew9z",
@@ -414,7 +414,7 @@
       },
       "locality": "Covide · Terras de Bouro",
       "address": "Rua Santa Marinha, 294, Covide",
-      "phone": "(+351) 253 114 422"
+      "phone": "+351253114422"
     },
     {
       "id": "local-mwf2nbyd-45guh9",
@@ -441,7 +441,7 @@
         }
       },
       "locality": "Santa Isabel do Monte · Terras de Bouro",
-      "phone": "(+351) 253 378 124"
+      "phone": "+351253378124"
     }
   ],
   "activities": [
