@@ -615,5 +615,13 @@
       },
       "company": ""
     }
-  ]
+  ],
+  "menuImages": {
+    "discover": "assets/menu-discover-1794584856785.jpg",
+    "experiences": "assets/menu-experiences-1794584860240.jpg",
+    "useful": "assets/menu-useful-1794584862811.png",
+    "stay": "assets/menu-stay-1794584865644.png",
+    "guide": "assets/menu-guide-1794584868999.png",
+    "food": "assets/menu-food-1794584872314.jpg"
+  }
 }
