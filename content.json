@@ -1,16 +1,16 @@
 {
   "brand": "Casinha D’Aldeia",
   "heroImage": "assets/capa-casinha.png",
-  "wifiName": "",
+  "wifiName": "Teste123",
   "wifiPassword": "",
-  "checkin": "",
-  "checkout": "",
-  "whatsapp": "",
-  "maps": "",
+  "checkin": "A partir das 14h30",
+  "checkout": "Até às 11h",
+  "whatsapp": "(+351) 914 848 094",
+  "maps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6",
   "address": "Campo do Gerês, Terras de Bouro, Portugal",
   "texts": {
     "pt": {
-      "welcome": "Bem-vindo! ola",
+      "welcome": "Bem-vindo!",
       "intro": "É um prazer recebê-lo na nossa casa. Esperamos que se sinta em casa e tenha uma estadia maravilhosa. Desejamos-lhe uma excelente estadia!",
       "guide": "Guia da Casa",
       "discover": "Descobrir o Gerês",
