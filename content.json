@@ -21,7 +21,8 @@
       "discoverBody": "Entre montanhas, florestas, rios e aldeias onde o tempo parece passar mais devagar, o Gerês revela-se a quem o percorre com curiosidade.\n\nA partir de Campo do Gerês, descubra a beleza natural e o património desta região tão especial. Explore os caminhos da serra, visite aldeias tradicionais, deixe-se surpreender pelas paisagens e reserve tempo para saborear a gastronomia local.\n\nAlguns dos melhores momentos surgem sem grandes planos: uma estrada panorâmica, uma conversa inesperada ou uma pausa para contemplar a natureza.\n\nDescubra o Gerês ao seu ritmo. Há sempre mais um recanto à espera de ser encontrado.",
       "experiencesBody": "O Gerês é um lugar para descobrir, mas também para sentir.\n\nPara quem gosta de aventura, há trilhos para explorar, percursos pela natureza e paisagens que recompensam cada caminhada. Para quem prefere dias tranquilos, há miradouros, património histórico, sabores regionais e o prazer de simplesmente não ter pressa.\n\nSeja qual for a sua forma de viajar, aproveite para conhecer a região para além dos lugares mais conhecidos.\n\nE lembre-se: por vezes, a melhor experiência é regressar à casa depois de um dia de descobertas e desfrutar da tranquilidade da aldeia.",
       "rulesBody": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar.",
-      "food": "Gastronomia"
+      "food": "Gastronomia",
+      "equicampoOffer": "Aproveite 15% de desconto em todas as atividades da Equicampo durante a sua estadia na Casinha D’Aldeia."
     },
     "en": {
       "welcome": "Welcome!",
@@ -35,7 +36,8 @@
       "discoverBody": "Our local recommendations are coming soon.",
       "experiencesBody": "Discover local experiences.",
       "rulesBody": "House rules coming soon.",
-      "food": "Food & Dining"
+      "food": "Food & Dining",
+      "equicampoOffer": "Enjoy 15% off all Equicampo activities during your stay at Casinha D’Aldeia."
     },
     "es": {
       "welcome": "¡Bienvenidos!",
@@ -49,7 +51,8 @@
       "discoverBody": "Próximamente nuestras recomendaciones locales.",
       "experiencesBody": "Descubra las experiencias de la región.",
       "rulesBody": "Normas próximamente.",
-      "food": "Gastronomía"
+      "food": "Gastronomía",
+      "equicampoOffer": "Disfruta de un 15 % de descuento en todas las actividades de Equicampo durante tu estancia en Casinha D’Aldeia."
     },
     "fr": {
       "welcome": "Bienvenue !",
@@ -63,7 +66,8 @@
       "discoverBody": "Nos recommandations locales arrivent bientôt.",
       "experiencesBody": "Découvrez les expériences de la région.",
       "rulesBody": "Règles à venir.",
-      "food": "Gastronomie"
+      "food": "Gastronomie",
+      "equicampoOffer": "Profitez de 15 % de réduction sur toutes les activités Equicampo pendant votre séjour à Casinha D’Aldeia."
     }
   },
   "places": [
@@ -468,7 +472,10 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": "Equicampo, Turismo de Montanha",
+      "locality": "Campo do Gerês",
+      "phone": "+351914848094"
     },
     {
       "id": "local-mwf2ufgb-01z2rb",
@@ -493,7 +500,10 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": "Equicampo, Turismo de Montanha",
+      "locality": "Campo do Gerês",
+      "phone": "+351914848094"
     },
     {
       "id": "local-mwf2v0zq-hbq5m9",
@@ -518,7 +528,10 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": "Equicampo, Turismo de Montanha",
+      "locality": "Campo do Gerês",
+      "phone": "+351914848094"
     },
     {
       "id": "local-mwf2v8ft-ucrjyp",
@@ -543,7 +556,10 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": "Equicampo, Turismo de Montanha",
+      "locality": "Campo do Gerês",
+      "phone": "+351914848094"
     },
     {
       "id": "local-mwf2vnva-v020rg",
@@ -568,7 +584,10 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": "Equicampo, Turismo de Montanha",
+      "locality": "Campo do Gerês",
+      "phone": "+351914848094"
     },
     {
       "id": "local-mwf2vxtt-umifn1",
@@ -593,7 +612,8 @@
           "name": "",
           "description": ""
         }
-      }
+      },
+      "company": ""
     }
   ]
 }
