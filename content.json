@@ -20,7 +20,8 @@
       "guideBody": "Queremos que se sinta à vontade desde o primeiro momento.\n\nCheck-in: a partir das 16h00\nCheck-out: até às 12h00\n\nNeste guia encontrará as informações essenciais para desfrutar da casa com toda a tranquilidade.\n\nSe surgir alguma dúvida, se precisar de ajuda ou simplesmente quiser uma recomendação, estamos à distância de uma mensagem. Teremos todo o gosto em ajudar.",
       "discoverBody": "Entre montanhas, florestas, rios e aldeias onde o tempo parece passar mais devagar, o Gerês revela-se a quem o percorre com curiosidade.\n\nA partir de Campo do Gerês, descubra a beleza natural e o património desta região tão especial. Explore os caminhos da serra, visite aldeias tradicionais, deixe-se surpreender pelas paisagens e reserve tempo para saborear a gastronomia local.\n\nAlguns dos melhores momentos surgem sem grandes planos: uma estrada panorâmica, uma conversa inesperada ou uma pausa para contemplar a natureza.\n\nDescubra o Gerês ao seu ritmo. Há sempre mais um recanto à espera de ser encontrado.",
       "experiencesBody": "O Gerês é um lugar para descobrir, mas também para sentir.\n\nPara quem gosta de aventura, há trilhos para explorar, percursos pela natureza e paisagens que recompensam cada caminhada. Para quem prefere dias tranquilos, há miradouros, património histórico, sabores regionais e o prazer de simplesmente não ter pressa.\n\nSeja qual for a sua forma de viajar, aproveite para conhecer a região para além dos lugares mais conhecidos.\n\nE lembre-se: por vezes, a melhor experiência é regressar à casa depois de um dia de descobertas e desfrutar da tranquilidade da aldeia.",
-      "rulesBody": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar."
+      "rulesBody": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar.",
+      "food": "Gastronomia"
     },
     "en": {
       "welcome": "Welcome!",
@@ -33,7 +34,8 @@
       "guideBody": "House information coming soon.",
       "discoverBody": "Our local recommendations are coming soon.",
       "experiencesBody": "Discover local experiences.",
-      "rulesBody": "House rules coming soon."
+      "rulesBody": "House rules coming soon.",
+      "food": "Food & Dining"
     },
     "es": {
       "welcome": "¡Bienvenidos!",
@@ -46,7 +48,8 @@
       "guideBody": "Información de la casa próximamente.",
       "discoverBody": "Próximamente nuestras recomendaciones locales.",
       "experiencesBody": "Descubra las experiencias de la región.",
-      "rulesBody": "Normas próximamente."
+      "rulesBody": "Normas próximamente.",
+      "food": "Gastronomía"
     },
     "fr": {
       "welcome": "Bienvenue !",
@@ -59,7 +62,8 @@
       "guideBody": "Informations sur la maison à venir.",
       "discoverBody": "Nos recommandations locales arrivent bientôt.",
       "experiencesBody": "Découvrez les expériences de la région.",
-      "rulesBody": "Règles à venir."
+      "rulesBody": "Règles à venir.",
+      "food": "Gastronomie"
     }
   },
   "places": [
@@ -270,5 +274,158 @@
         }
       }
     }
-  ]
+  ],
+  "restaurants": [
+    {
+      "id": "local-mwezjdgh-6gg9ar",
+      "image": "assets/restaurants-local-mwezjdgh-6gg9ar-1794575569373.jpg",
+      "maps": "https://maps.app.goo.gl/aXidpT2dyjfQxFz87",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Equi Campo Snack-Bar",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mweykmjb-0ydinm",
+      "image": "assets/restaurants-local-mweykmjb-0ydinm-1794575572243.jpg",
+      "maps": "https://maps.app.goo.gl/KWzeZ6V6H8adJS4FA",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante Cantinho do Antigamente",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mweyfk4w-7n72ze",
+      "image": "assets/restaurants-local-mweyfk4w-7n72ze-1794575574599.jpg",
+      "maps": "https://maps.app.goo.gl/kmsbLVaod2H8nMH79",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante Cerdeira",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwexhmdp-iu1m6r",
+      "image": "assets/restaurants-local-mwexhmdp-iu1m6r-1794575577681.jpg",
+      "maps": "https://maps.app.goo.gl/15Q2kZkgmBVk9MpQ8",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante O Abocanhado",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwezgqbf-a5ew9z",
+      "image": "assets/restaurants-local-mwezgqbf-a5ew9z-1794575579570.jpg",
+      "maps": "https://maps.app.goo.gl/6u1R9dnADHyBucLq7",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante Turismo",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mweyp15e-9uw4fn",
+      "image": "assets/restaurants-local-mweyp15e-9uw4fn-1794575581970.jpg",
+      "maps": "https://maps.app.goo.gl/rE8o5MQoL1KxX4cAA",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Chamadouro Bar",
+          "description": ""
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    }
+  ],
+  "activities": []
 }
