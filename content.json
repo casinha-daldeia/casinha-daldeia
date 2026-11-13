@@ -647,8 +647,8 @@
           "body": ""
         }
       },
-      "buttonLabel": "",
-      "buttonUrl": "",
+      "buttonLabel": "WhatsApp",
+      "buttonUrl": "https://api.whatsapp.com/send/?phone=351914848094&text&type=phone_number&app_absent=0",
       "phone": "+351914848094",
       "image": ""
     },
@@ -755,9 +755,9 @@
           "body": ""
         }
       },
-      "buttonLabel": "",
-      "buttonUrl": "",
-      "phone": "",
+      "buttonLabel": "WhatsApp",
+      "buttonUrl": "https://api.whatsapp.com/send/?phone=351914848094&text&type=phone_number&app_absent=0",
+      "phone": "+351914848094",
       "image": ""
     },
     {
@@ -821,7 +821,7 @@
       "translations": {
         "pt": {
           "title": "Segurança e Emergências",
-          "body": "Em caso de emergência ligue 112. Consulte as indicações de segurança do alojamento."
+          "body": "Para sua segurança, o alojamento dispõe de um extintor, uma manta ignífuga e um kit de primeiros socorros.\n\nRecomendamos que, à chegada, identifique a localização destes equipamentos.\n\nEm caso de emergência, ligue 112, o número europeu de emergência, disponível 24 horas por dia.\n\nSe detetar alguma situação que possa comprometer a segurança ou o funcionamento do alojamento, contacte-nos."
         },
         "en": {
           "title": "Safety and Emergencies",
@@ -847,8 +847,8 @@
       "visible": true,
       "translations": {
         "pt": {
-          "title": "Antes de Partir",
-          "body": "Antes de sair, por favor, confirme que as janelas estão fechadas e os equipamentos desligados. Siga as instruções de entrega das chaves."
+          "title": "Antes de Sair",
+          "body": "Antes de sair, por favor, confirme que as janelas estão fechadas e os equipamentos desligados. "
         },
         "en": {
           "title": "Before You Leave",
