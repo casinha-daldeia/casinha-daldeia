@@ -3,24 +3,24 @@
   "heroImage": "assets/capa-casinha.png",
   "wifiName": "Teste123",
   "wifiPassword": "",
-  "checkin": "A partir das 14h30",
-  "checkout": "Até às 11h",
+  "checkin": "A partir das 16h",
+  "checkout": "Até às 12h",
   "whatsapp": "(+351) 914 848 094",
   "maps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6",
   "address": "Campo do Gerês, Terras de Bouro, Portugal",
   "texts": {
     "pt": {
-      "welcome": "Bem-vindo!",
-      "intro": "É um prazer recebê-lo na nossa casa. Esperamos que se sinta em casa e tenha uma estadia maravilhosa. Desejamos-lhe uma excelente estadia!",
-      "guide": "Guia da Casa",
+      "welcome": "Bem-vindos!",
+      "intro": "Há lugares que nos convidam a abrandar. A respirar mais fundo, a apreciar as pequenas coisas e a deixar que os dias sigam ao seu próprio ritmo.\n\nEsperamos que a Casinha D’Aldeia seja um desses lugares para si. Entre, instale-se e sinta-se em casa. O Gerês espera por si, com paisagens para descobrir, tradições para conhecer e momentos para recordar.\n\nDesejamos-lhe uma estadia verdadeiramente especial.",
+      "guide": "A Sua Estadia",
       "discover": "Descobrir o Gerês",
       "experiences": "Experiências",
       "hosts": "Anfitriões",
       "rules": "Regras da casa",
-      "guideBody": "Informações da casa a adicionar.",
-      "discoverBody": "As nossas recomendações locais serão adicionadas em breve.",
-      "experiencesBody": "Descubra as experiências da região.",
-      "rulesBody": "Regras a adicionar."
+      "guideBody": "Queremos que se sinta à vontade desde o primeiro momento.\n\nCheck-in: a partir das 16h00\nCheck-out: até às 12h00\n\nNeste guia encontrará as informações essenciais para desfrutar da casa com toda a tranquilidade.\n\nSe surgir alguma dúvida, se precisar de ajuda ou simplesmente quiser uma recomendação, estamos à distância de uma mensagem. Teremos todo o gosto em ajudar.",
+      "discoverBody": "Entre montanhas, florestas, rios e aldeias onde o tempo parece passar mais devagar, o Gerês revela-se a quem o percorre com curiosidade.\n\nA partir de Campo do Gerês, descubra a beleza natural e o património desta região tão especial. Explore os caminhos da serra, visite aldeias tradicionais, deixe-se surpreender pelas paisagens e reserve tempo para saborear a gastronomia local.\n\nAlguns dos melhores momentos surgem sem grandes planos: uma estrada panorâmica, uma conversa inesperada ou uma pausa para contemplar a natureza.\n\nDescubra o Gerês ao seu ritmo. Há sempre mais um recanto à espera de ser encontrado.",
+      "experiencesBody": "O Gerês é um lugar para descobrir, mas também para sentir.\n\nPara quem gosta de aventura, há trilhos para explorar, percursos pela natureza e paisagens que recompensam cada caminhada. Para quem prefere dias tranquilos, há miradouros, património histórico, sabores regionais e o prazer de simplesmente não ter pressa.\n\nSeja qual for a sua forma de viajar, aproveite para conhecer a região para além dos lugares mais conhecidos.\n\nE lembre-se: por vezes, a melhor experiência é regressar à casa depois de um dia de descobertas e desfrutar da tranquilidade da aldeia.",
+      "rulesBody": "Preparamos a Casinha D’Aldeia com carinho para que todos os que nos visitam possam sentir-se confortáveis e bem recebidos.\n\nPedimos apenas que cuide deste espaço como se fosse seu, respeitando a casa, os seus equipamentos e a tranquilidade de quem vive à nossa volta.\n\nAntes de sair, agradecemos que verifique se deixou as luzes apagadas, as janelas fechadas e a casa em boas condições.\n\nSe acontecer algum imprevisto ou se algo não estiver a funcionar como deveria, avise-nos. Estamos aqui para ajudar.\n\nObrigado por nos ajudar a preservar este pequeno lugar que gostamos tanto de partilhar."
     },
     "en": {
       "welcome": "Welcome!",
