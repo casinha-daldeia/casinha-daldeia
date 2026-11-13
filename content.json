@@ -842,5 +842,10 @@
       "image": ""
     }
   ],
-  "equicampoMaps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6"
+  "equicampoMaps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6",
+  "hostPhotos": [
+    "assets/equicampo-gallery-0-1794592907197-xmnk7.png",
+    "assets/equicampo-gallery-1-1794592907207-jvrq3.png"
+  ],
+  "hostLogo": "assets/equicampo-logo-1794592904974-2i8jb.png"
 }
