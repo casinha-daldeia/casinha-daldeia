@@ -755,8 +755,8 @@
           "body": ""
         }
       },
-      "buttonLabel": "WhatsApp",
-      "buttonUrl": "https://api.whatsapp.com/send/?phone=351914848094&text&type=phone_number&app_absent=0",
+      "buttonLabel": "",
+      "buttonUrl": "",
       "phone": "+351914848094",
       "image": ""
     },
