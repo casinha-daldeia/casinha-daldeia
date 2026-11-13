@@ -707,33 +707,6 @@
       "image": ""
     },
     {
-      "id": "equipment",
-      "icon": "book",
-      "visible": true,
-      "translations": {
-        "pt": {
-          "title": "Guia dos Equipamentos",
-          "body": ""
-        },
-        "en": {
-          "title": "Appliance Guide",
-          "body": ""
-        },
-        "es": {
-          "title": "Guía de los equipos",
-          "body": ""
-        },
-        "fr": {
-          "title": "Guide des équipements",
-          "body": ""
-        }
-      },
-      "buttonLabel": "",
-      "buttonUrl": "",
-      "phone": "",
-      "image": ""
-    },
-    {
       "id": "fireplace",
       "icon": "flame",
       "visible": true,
@@ -758,6 +731,33 @@
       "buttonLabel": "",
       "buttonUrl": "",
       "phone": "+351914848094",
+      "image": ""
+    },
+    {
+      "id": "equipment",
+      "icon": "book",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Guia dos Equipamentos",
+          "body": ""
+        },
+        "en": {
+          "title": "Appliance Guide",
+          "body": ""
+        },
+        "es": {
+          "title": "Guía de los equipos",
+          "body": ""
+        },
+        "fr": {
+          "title": "Guide des équipements",
+          "body": ""
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
       "image": ""
     },
     {
