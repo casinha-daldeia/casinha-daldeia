@@ -64,6 +64,29 @@
   },
   "places": [
     {
+      "id": "local-mwewlx0y-p2a03j",
+      "image": "assets/geres-local-mwewlx0y-p2a03j-1794570607432.jpg",
+      "maps": "https://maps.app.goo.gl/VMSAUzxtEsEVxZKX9",
+      "translations": {
+        "pt": {
+          "name": "Campo do Gerês",
+          "description": "Uma aldeia de montanha onde as casas de granito, os espigueiros e os caminhos antigos preservam a identidade rural do Gerês. Um convite a descobrir a vida e as tradições locais."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
       "id": "local-mwevuyjc-ma571h",
       "image": "assets/geres-local-mwevuyjc-ma571h-1794569091656.jpg",
       "maps": "https://maps.app.goo.gl/UZKVBFFyMSzYDqRo9",
@@ -71,6 +94,167 @@
         "pt": {
           "name": "Barragem de Vilarinho das Furnas",
           "description": "Rodeada pelas montanhas da Serra Amarela, esta albufeira esconde a história de uma aldeia submersa. Um cenário de grande beleza, onde a paisagem e a memória se encontram."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwewba1p-6srirj",
+      "image": "assets/geres-local-mwewba1p-6srirj-1794570611839.jpg",
+      "maps": "https://maps.app.goo.gl/xggqSPJtpV5Pr6LV6",
+      "translations": {
+        "pt": {
+          "name": "Mata da Albergaria",
+          "description": "Uma das florestas mais emblemáticas do Parque Nacional, com carvalhos centenários, ribeiros cristalinos e vestígios da antiga via romana. Um lugar para descobrir sem pressas."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwew6hca-d4jiz4",
+      "image": "assets/geres-local-mwew6hca-d4jiz4-1794570620489.jpg",
+      "maps": "https://maps.app.goo.gl/n4RnhykcinoCvjMa8",
+      "translations": {
+        "pt": {
+          "name": "Geira Romana",
+          "description": "Percorra vestígios de uma antiga estrada romana que ligava Braga a Astorga. Entre marcos miliários e paisagens de montanha, descubra quase dois mil anos de história."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwewde1v-37zoqg",
+      "image": "assets/geres-local-mwewde1v-37zoqg-1794570624590.jpg",
+      "maps": "https://maps.app.goo.gl/2AM13sYYLFm2jqxdA",
+      "translations": {
+        "pt": {
+          "name": "Cascata da Portela do Homem",
+          "description": "Na fronteira com Espanha, a estrada atravessa uma paisagem impressionante de montanhas, floresta e cursos de água. Um dos percursos panorâmicos mais bonitos da região."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwewpomg-piac1k",
+      "image": "assets/geres-local-mwewpomg-piac1k-1794570628027.jpg",
+      "maps": "https://maps.app.goo.gl/cTNP2eqM9n29u28h8",
+      "translations": {
+        "pt": {
+          "name": "Museu Etnográfico de Vilarinho da Furna",
+          "description": "Conheça a história da antiga aldeia comunitária de Vilarinho da Furna, submersa pela barragem. Um lugar onde objetos, fotografias e memórias preservam uma forma de vida singular."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwewhetm-uiykdu",
+      "image": "assets/geres-local-mwewhetm-uiykdu-1794570633354.jpg",
+      "maps": "https://maps.app.goo.gl/89fs4VU6rT9vdxz2A",
+      "translations": {
+        "pt": {
+          "name": "Miradouro da Pedra Bela",
+          "description": "Um dos miradouros mais impressionantes do Gerês, com vistas panorâmicas sobre a albufeira da Caniçada e as montanhas envolventes. Ideal para contemplar a paisagem."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwews2az-wn5lhd",
+      "image": "assets/geres-local-mwews2az-wn5lhd-1794570639279.jpg",
+      "maps": "https://maps.app.goo.gl/b2iaXtxZhXgiu72C6",
+      "translations": {
+        "pt": {
+          "name": "Cascata do Arado",
+          "description": "Entre rochas graníticas e vegetação serrana, a água desce em sucessivas quedas, criando um dos cenários naturais mais conhecidos do Gerês. Especialmente bonita após períodos de chuva."
+        },
+        "en": {
+          "name": "",
+          "description": ""
+        },
+        "es": {
+          "name": "",
+          "description": ""
+        },
+        "fr": {
+          "name": "",
+          "description": ""
+        }
+      }
+    },
+    {
+      "id": "local-mwewv3ch-erspoz",
+      "image": "assets/geres-local-mwewv3ch-erspoz-1794570642635.jpg",
+      "maps": "https://maps.app.goo.gl/izPpBcRNJhhx8WwT8",
+      "translations": {
+        "pt": {
+          "name": "Brufe",
+          "description": "Uma pequena aldeia de montanha, com casas tradicionais de granito e paisagens rurais que convidam a abrandar. Um excelente lugar para conhecer o lado mais autêntico do Gerês."
         },
         "en": {
           "name": "",
