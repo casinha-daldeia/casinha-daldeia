@@ -56,6 +56,8 @@ body{background:#eae5db}.app{max-width:760px;box-shadow:0 20px 80px #2b281a18}.h
 .stay-meta{background:#f1eadf;padding:12px 14px;border-radius:9px;margin:10px 0;color:#394532}
 @media(max-width:520px){.stay-item .stay-name{font-size:19px}.stay-detail{padding-left:19px}}
 .hosts-logo{display:block;max-width:210px;max-height:125px;object-fit:contain;margin:0 auto 25px}.hosts-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:22px}.hosts-gallery img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:14px}.hosts-gallery img:first-child:nth-last-child(odd){grid-column:span 2;aspect-ratio:16/9}@media(max-width:500px){.hosts-gallery{gap:8px}}.hosts-panel h2{font-family:Georgia,serif;font-size:clamp(24px,4vw,32px);margin:0 0 18px}.hosts-panel p{white-space:pre-line;line-height:1.8;margin:0}.hosts-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}.hosts-actions .action{display:inline-flex;align-items:center;justify-content:center;text-decoration:none}
+/* Welcome readability: move the cream fade higher without changing layout. */
+.hero{background:linear-gradient(180deg,rgba(15,24,16,.58) 0%,rgba(15,24,16,.03) 32%,rgba(248,244,235,.45) 55%,rgba(248,244,235,.92) 72%,#f8f4eb 96%),var(--photo) center/cover}
 /* Mobile bottom navigation: five equal, fully visible tabs. */
 .bottom{grid-template-columns:repeat(5,minmax(0,1fr));box-sizing:border-box;z-index:1000;overflow:hidden;}
 .bottom button{min-width:0;width:100%;padding:4px 2px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;line-height:1.15;white-space:normal;overflow-wrap:normal;word-break:normal;}
@@ -67,6 +69,28 @@ body{background:#eae5db}.app{max-width:760px;box-shadow:0 20px 80px #2b281a18}.h
  .bottom button span{font-size:clamp(9px,2.45vw,11px);}
  .bottom button svg{width:22px;height:22px;}
  .app{padding-bottom:calc(105px + env(safe-area-inset-bottom,0px));}
+}
+
+/* Stronger readable backdrop behind welcome copy */
+.hero{background:linear-gradient(180deg,rgba(15,24,16,.58) 0%,rgba(15,24,16,.08) 25%,rgba(248,244,235,.35) 39%,rgba(248,244,235,.82) 53%,#f8f4eb 69%,#f8f4eb 100%),var(--photo) center/cover;}
+.welcome{position:relative;z-index:1;}
+
+/* Refined vertical placement: preserve the photograph, gradient and text sizes. */
+.hero .brand{transform:translateY(34px)}
+.hero .welcome{transform:translateY(29px)}
+@media(max-width:520px){.hero .brand{transform:translateY(25px)}.hero .welcome{transform:translateY(23px)}}
+
+/* Home spacing refinements — inspired by the approved mock-up.
+   Keep all other pages, navigation, image assets and content unchanged. */
+.hero{height:615px}
+.hero .welcome{transform:translateY(35px)}
+.content:has(> .quick){padding-top:56px}
+.content > .quick + .home-menu{margin-top:58px}
+@media(max-width:520px){
+  .hero{height:555px}
+  .hero .welcome{transform:translateY(29px)}
+  .content:has(> .quick){padding-top:46px}
+  .content > .quick + .home-menu{margin-top:48px}
 }
 </style></head><body><label for="globalLanguage" style="position:absolute;left:-9999px">Idioma</label><select id="globalLanguage" class="global-language" aria-label="Idioma" onchange="setLanguage(this.value)"><option value="pt">🇵🇹 PT</option><option value="en">🇬🇧 EN</option><option value="es">🇪🇸 ES</option><option value="fr">🇫🇷 FR</option></select><main class="app" id="app"></main><nav class="bottom" id="nav"></nav><script>
 const UI={pt:['Início','A Sua Estadia','Descobrir','Experiências','Anfitriões','Wi-Fi','Check-in / Check-out','Copiar palavra-passe','Copiada!','Contactar','Informações úteis','Emergência: 112'],en:['Home','Your Stay','Explore','Experiences','Hosts','Wi-Fi','Check-in / Check-out','Copy password','Copied!','Contact','Useful information','Emergency: 112'],es:['Inicio','Estancia','Descubrir','Experiencias','Anfitriones','Wi-Fi','Entrada / Salida','Copiar contraseña','¡Copiada!','Contacto','Información útil','Emergencias: 112'],fr:['Accueil','Séjour','Découvrir','Expériences','Hôtes','Wi-Fi','Arrivée / Départ','Copier le mot de passe','Copié !','Contact','Infos utiles','Urgence : 112']};let data=null,lang=localStorage.getItem('guestLang')||'pt',page='home';const e=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const tx=k=>data.texts[lang]?.[k]||data.texts.pt[k]||'';const u=i=>UI[lang][i];const PLACE_LABELS={pt:{map:'Ver no Google Maps',empty:'Em breve, as nossas sugestões para descobrir o Gerês.'},en:{map:'View on Google Maps',empty:'Our favourite places to explore in Gerês are coming soon.'},es:{map:'Ver en Google Maps',empty:'Próximamente, nuestras recomendaciones para descubrir Gerês.'},fr:{map:'Voir sur Google Maps',empty:'Nos bonnes adresses pour découvrir le Gerês arrivent bientôt.'}};
