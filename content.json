@@ -5,7 +5,7 @@
   "wifiPassword": "",
   "checkin": "A partir das 16h",
   "checkout": "Até às 12h",
-  "whatsapp": "(+351) 914 848 094",
+  "whatsapp": "+351914848094",
   "maps": "https://maps.app.goo.gl/Yus8Znxxj9NFSXHk6",
   "address": "Campo do Gerês, Terras de Bouro, Portugal",
   "texts": {
@@ -632,7 +632,7 @@
       "translations": {
         "pt": {
           "title": "Check-in e Check-out",
-          "body": "Escolha entre self check-in / self check-out ou atendimento presencial na sede da Equicampo. Contacte-nos para combinar a opção mais conveniente. As instruções de acesso são enviadas em privado antes da chegada."
+          "body": "Escolha entre self check-in / self check-out ou atendimento presencial na sede da Equicampo. Contacte-nos para combinar a opção mais conveniente."
         },
         "en": {
           "title": "Check-in and Check-out",
@@ -649,7 +649,7 @@
       },
       "buttonLabel": "",
       "buttonUrl": "",
-      "phone": "",
+      "phone": "+351914848094",
       "image": ""
     },
     {
@@ -659,7 +659,7 @@
       "translations": {
         "pt": {
           "title": "Estacionamento",
-          "body": "Para facilitar a descarga e o transporte das bagagens, podem estacionar temporariamente à porta do alojamento.\n\nPara estacionamentos mais prolongados, recomendamos que utilizem o parque de estacionamento público situado à entrada da aldeia, o mais próximo da Casinha D’Aldeia."
+          "body": "Consulte aqui as indicações de estacionamento e acesso à casa."
         },
         "en": {
           "title": "Parking",
@@ -713,7 +713,7 @@
       "translations": {
         "pt": {
           "title": "Guia dos Equipamentos",
-          "body": "Queremos que se sinta à vontade desde o primeiro momento.\n\nCheck-in: a partir das 16h00\nCheck-out: até às 12h00\n\nNeste guia encontrará as informações essenciais para desfrutar da casa com toda a tranquilidade.\n\nSe surgir alguma dúvida, se precisar de ajuda ou simplesmente quiser uma recomendação, estamos à distância de uma mensagem ou chamada. Teremos todo o gosto em ajudar."
+          "body": ""
         },
         "en": {
           "title": "Appliance Guide",
@@ -730,7 +730,7 @@
       },
       "buttonLabel": "",
       "buttonUrl": "",
-      "phone": "+351914848094",
+      "phone": "",
       "image": ""
     },
     {
@@ -794,7 +794,7 @@
       "translations": {
         "pt": {
           "title": "Lixo e Reciclagem",
-          "body": "Consulte as indicações sobre separação de resíduos e localização dos contentores."
+          "body": ""
         },
         "en": {
           "title": "Waste and Recycling",
@@ -848,7 +848,7 @@
       "translations": {
         "pt": {
           "title": "Antes de Partir",
-          "body": "Antes de sair, confirme que as janelas estão fechadas e os equipamentos desligados. Siga as instruções de entrega das chaves."
+          "body": "Antes de sair, por favor, confirme que as janelas estão fechadas e os equipamentos desligados. Siga as instruções de entrega das chaves."
         },
         "en": {
           "title": "Before You Leave",
